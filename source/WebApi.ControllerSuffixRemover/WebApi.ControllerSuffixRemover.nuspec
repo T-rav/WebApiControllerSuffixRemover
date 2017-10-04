@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WebApi.ControllerSuffixRemover</id>
+    <version>1.0.0</version>
+    <title>WebApi.ControllerSuffixRemover</title>
+    <authors>TddBuddy</authors>
+    <owners>StoneAge Technologies</owners>
+    <projectUrl>https://github.com/T-rav/WebApiControllerSuffixRemover</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Remove the need to suffix controllers with Controller</description>
+    <releaseNotes>Inital release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>WebApi</tags>
+  </metadata>
+</package>
